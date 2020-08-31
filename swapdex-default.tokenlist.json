@@ -1045,6 +1045,14 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    },
+    {
+      "name": "VINC COIN STO",
+      "address": "0x010c282118aA76174CE5952572BA715CF60A0c9B",
+      "symbol": "VINX",
+      "decimals": 18,
+      "chainId": 3,
+      
     }
   ]
 }
