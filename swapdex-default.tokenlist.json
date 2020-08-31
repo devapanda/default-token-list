@@ -1053,6 +1053,14 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x010c282118aA76174CE5952572BA715CF60A0c9B/logo.png"
+    },
+    {
+      "name": "SwapDEX",
+      "address": "0x041fdd6637eCfD96af8804278AC12660ac2D12c0",
+      "symbol": "SDX",
+      "decimals": 7,
+      "chainId": 3,
+      
     }
   ]
 }
