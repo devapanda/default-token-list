@@ -24,22 +24,6 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
       "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
       "symbol": "WETH",
       "decimals": 18,
@@ -1045,14 +1029,6 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
-    },
-    {
-      "name": "VINC COIN STO",
-      "address": "0x010c282118aA76174CE5952572BA715CF60A0c9B",
-      "symbol": "VINX",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x010c282118aA76174CE5952572BA715CF60A0c9B/logo.png"
     },
     {
       "name": "SwapDEX",
