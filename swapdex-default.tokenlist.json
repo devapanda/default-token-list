@@ -1,5 +1,5 @@
 {
-  "name": "swapdex Default List",
+  "name": "SWAPDEX Default List",
   "timestamp": "2020-07-20T13:47:56+00:00",
   "version": {
     "major": 1,
@@ -10,7 +10,7 @@
   },
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
   "keywords": [
-    "uniswap",
+    "Swapdex",
     "default"
   ],
   "tokens": [
